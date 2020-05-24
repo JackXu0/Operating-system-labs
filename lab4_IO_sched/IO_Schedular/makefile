@@ -1,0 +1,2 @@
+io_sche: main.cpp SSTF.cpp FIFO.cpp IO_Operation.cpp IO_Schedular.cpp LOOK.cpp CLOOK.cpp FLOOK.cpp
+	g++ -std=c++0x -o io_sche main.cpp SSTF.cpp FIFO.cpp IO_Operation.cpp IO_Schedular.cpp LOOK.cpp CLOOK.cpp FLOOK.cpp

@@ -1,0 +1,14 @@
+//
+//  module.cpp
+//  Linker
+//
+//  Created by Zhuocheng Xu on 9/23/19.
+//  Copyright © 2019 Zhuocheng Xu. All rights reserved.
+//
+
+#include "Linker.h"
+#include <string>
+using namespace std;
+
+Module::Module() {
+}

@@ -1,0 +1,2 @@
+sched: main.cpp DES.cpp Event.cpp FCFS.cpp LCFS.cpp Pre_PRIO.cpp PRIO.cpp Process.cpp RR.cpp schedular.cpp SRTF.cpp
+	g++ -std=c++0x -o sched main.cpp DES.cpp Event.cpp FCFS.cpp LCFS.cpp Pre_PRIO.cpp PRIO.cpp Process.cpp RR.cpp schedular.cpp SRTF.cpp
